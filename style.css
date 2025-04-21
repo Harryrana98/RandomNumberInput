@@ -4,40 +4,38 @@
   box-sizing: border-box;
 }
 
-body{
-    background-color: #012345;
+body {
+  background-color: #012345;
 }
 
-.wrapper{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
-button{
-    font-size: 15px;
-    padding: 10px 20px;
+button {
+  font-size: 15px;
+  padding: 10px 20px;
 }
 
-#input1{
-    padding: 10px 20px;
-    font-size: 15px;
-    
+#input1 {
+  padding: 10px 20px;
+  font-size: 15px;
 }
-#input2{
-    font-size: 15px;
-    padding: 10px 20px;
-
+#input2 {
+  font-size: 15px;
+  padding: 10px 20px;
 }
 
-form{
-    height: 60px;
+form {
+  height: 60px;
 }
 
-.result{
-    margin:10px auto ;
-    font-size: 20px;
-    text-align: center;
-    background-color: #fff;
+.result {
+  margin: 10px auto;
+  font-size: 20px;
+  text-align: center;
+  background-color: #fff;
 }
